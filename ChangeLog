@@ -1,3 +1,47 @@
+2025-03-09  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Version, Date): Release 0.0.2
+
+	* README.md: Update two links to nloptr
+
+2025-03-06  Dirk Eddelbuettel  <edd@debian.org>
+
+	* tests/simpleTest.R: Change tolerance to accommodate newer nlopt
+
+2024-10-19  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (Authors@R): Added
+
+2024-07-16  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Switch some URLs from http to https
+
+2024-03-26  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml (jobs): Update to actions/checkout@v4,
+	add r-ci-setup actions
+
+2022-11-17  Dirk Eddelbuettel  <edd@debian.org>
+
+	* .github/workflows/ci.yaml (jobs): Update to actions/checkout@v3
+
+2021-12-18  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Remove unused continuous integration artifact and badge
+
+2021-05-21  Dirk Eddelbuettel  <edd@debian.org>
+
+	* DESCRIPTION (URL, BugReports): Added URL and BugReports fields
+
+2021-01-11  Dirk Eddelbuettel  <edd@debian.org>
+
+        * .github/workflows/ci.yaml: Add CI runner using r-ci
+	* README.md: Add new badge
+
+2020-04-06  Dirk Eddelbuettel  <edd@debian.org>
+
+	* README.md: Added 'last commit' badge, some edits
+
 2018-10-01  Dirk Eddelbuettel  <edd@debian.org>
 
 	* DESCRIPTION (Version, Date): Initial release 0.0.1
